@@ -1,0 +1,21 @@
+ 
+            body{
+                background: rgb(128 160 195 / 50%);
+            }
+            form{
+                height:600px;
+                width:500px;
+                background-color: #959da5;
+                color:white;
+                 box-sizing: border-box;
+                 border:1px solid black;
+                 margin:100px 0px 0px 600px;
+            }
+            input{
+                border-radius: 5px;
+            }
+            textarea{
+              height:70px;
+              width:180px;
+            }
+  
