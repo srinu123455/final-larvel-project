@@ -1,0 +1,20 @@
+  body{
+                background: rgb(128 160 195 / 50%);
+            }
+           
+            input{
+                border-radius: 5px;
+            }
+            details{
+              padding:0 1rem;
+            }
+          /*  details > summary {
+              display : flex;
+              justify-content:space-between;
+              list-style:none;
+
+            }*/
+            details > summary::
+             -webkit-details-marker {
+              display:none;
+            }

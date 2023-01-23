@@ -1,0 +1,22 @@
+ 
+            body{
+                background: #dee2e6;
+            }
+            form{
+                height:600px;
+                width:500px;
+                background-color:#a0b7d1;
+                color:black;
+                 box-sizing: border-box;
+                 border:1px solid black;
+                 margin:70px 0px 0px 300px;
+            }
+            input{
+                border-radius: 5px;
+             
+            }
+            textarea{
+              height:70px;
+              width:180px;
+            }
+  

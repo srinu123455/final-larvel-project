@@ -1,0 +1,16 @@
+  body{
+                background: #dee2e6;
+            }
+            form{
+                height:300px;
+                width:500px;
+                background-color: #a0b7d1;
+                color:white;
+                 box-sizing: border-box;
+                 border:1px solid black;
+                 margin:100px 0px 0px 600px;
+            }
+            input{
+                border-radius: 5px;
+            }
+ 
